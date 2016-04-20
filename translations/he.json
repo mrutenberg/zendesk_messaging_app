@@ -1,0 +1,15 @@
+{
+  "button": {
+    "cancel": "ביטול",
+    "imageInput": "הוסף קישור לתמונה",
+    "sendMessage": "שדר",
+    "toAdmin": "הודעה חדשה"
+  },
+  "label": {
+    "groups": "קבוצות"
+  },
+  "message": {
+    "messagePlaceholder": "שתף הודעה עם הנציגים. מומלץ להשתמש ב-Markdown.",
+    "placeholder": "ממתין להודעה..."
+  }
+}

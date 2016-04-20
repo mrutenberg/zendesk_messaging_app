@@ -1,0 +1,15 @@
+{
+  "button": {
+    "cancel": "إلغاء",
+    "imageInput": "إضافة رابط صورة",
+    "sendMessage": "بث (أو نشر)",
+    "toAdmin": "رسالة جديدة"
+  },
+  "label": {
+    "groups": "المجموعات"
+  },
+  "message": {
+    "messagePlaceholder": "شارك رسالة مع وكلائك. ويُحبَّذ استخدام Markdown.",
+    "placeholder": "في انتظار الرسالة..."
+  }
+}

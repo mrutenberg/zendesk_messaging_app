@@ -1,0 +1,15 @@
+{
+  "button": {
+    "cancel": "Anuluj",
+    "imageInput": "Dodaj łącze do obrazu",
+    "sendMessage": "Rozgłoś",
+    "toAdmin": "Nowa wiadomość"
+  },
+  "label": {
+    "groups": "Grupy"
+  },
+  "message": {
+    "messagePlaceholder": "Udostępnij wiadomość swoim agentom. Zalecany jest język Markdown.",
+    "placeholder": "Oczekiwanie na wiadomość..."
+  }
+}

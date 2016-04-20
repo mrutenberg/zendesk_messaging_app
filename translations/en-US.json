@@ -1,0 +1,15 @@
+{
+  "button": {
+    "cancel": "Cancel",
+    "imageInput": "Add image link",
+    "sendMessage": "Broadcast",
+    "toAdmin": "New Message"
+  },
+  "label": {
+    "groups": "Groups"
+  },
+  "message": {
+    "messagePlaceholder": "Share a message with your agents. Markdown is encouraged.",
+    "placeholder": "Waiting for message..."
+  }
+}

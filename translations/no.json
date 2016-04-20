@@ -1,0 +1,15 @@
+{
+  "button": {
+    "cancel": "Avbryt",
+    "imageInput": "Legg til bildekobling",
+    "sendMessage": "Send til alle",
+    "toAdmin": "Ny melding"
+  },
+  "label": {
+    "groups": "Grupper"
+  },
+  "message": {
+    "messagePlaceholder": "Del en melding med kundekonsulentene. Det oppmuntres til å bruke Markdown.",
+    "placeholder": "Venter på melding ..."
+  }
+}

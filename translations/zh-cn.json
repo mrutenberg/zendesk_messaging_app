@@ -1,0 +1,15 @@
+{
+  "button": {
+    "cancel": "取消",
+    "imageInput": "添加图像链接",
+    "sendMessage": "广播",
+    "toAdmin": "新建消息"
+  },
+  "label": {
+    "groups": "组"
+  },
+  "message": {
+    "messagePlaceholder": "与专员共享消息。建议使用 Markdown。",
+    "placeholder": "等待消息……"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "button": {
+    "cancel": "취소",
+    "imageInput": "이미지 링크 추가",
+    "sendMessage": "브로드캐스트",
+    "toAdmin": "새 메시지"
+  },
+  "label": {
+    "groups": "그룹"
+  },
+  "message": {
+    "messagePlaceholder": "상담원과 메시지를 공유하세요. 마크다운을 권장합니다.",
+    "placeholder": "메시지 대기 중..."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "button": {
+    "cancel": "Anulare",
+    "imageInput": "Adăugare link imagine",
+    "sendMessage": "Difuzare",
+    "toAdmin": "Mesaj nou"
+  },
+  "label": {
+    "groups": "Grupuri"
+  },
+  "message": {
+    "messagePlaceholder": "Partajaţi un mesaj cu agenţii dumneavoastră. Markdown este recomandat.",
+    "placeholder": "Se aşteaptă mesajul..."
+  }
+}

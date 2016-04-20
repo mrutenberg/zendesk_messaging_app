@@ -1,0 +1,15 @@
+<li class="message" data-uuid="{{uuid}}">
+  <a href="#" class="close" data-dismiss="alert">&times;</a>
+
+  <p class="senderName">
+    {{senderName}}
+  </p>
+
+  <p class='date'>
+    {{date}}
+  </p>
+
+  <p class="messageBody">
+    {{{text}}}
+  </p>
+</li>

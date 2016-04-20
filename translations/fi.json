@@ -1,0 +1,15 @@
+{
+  "button": {
+    "cancel": "Peruuta",
+    "imageInput": "Lisää kuvalinkki",
+    "sendMessage": "Lähetä",
+    "toAdmin": "Uusi viesti"
+  },
+  "label": {
+    "groups": "Ryhmät"
+  },
+  "message": {
+    "messagePlaceholder": "Jaa viesti tukihenkilöiden kanssa. Markdown suositeltu.",
+    "placeholder": "Odottaa viestiä..."
+  }
+}

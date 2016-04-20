@@ -1,0 +1,15 @@
+{
+  "button": {
+    "cancel": "Cancelar",
+    "imageInput": "Agregar vínculo de imagen",
+    "sendMessage": "Difundir",
+    "toAdmin": "Nuevo mensaje"
+  },
+  "label": {
+    "groups": "Grupos"
+  },
+  "message": {
+    "messagePlaceholder": "Comparta un mensaje con sus agentes. Se recomienda el uso de Markdown.",
+    "placeholder": "Esperando el mensaje..."
+  }
+}

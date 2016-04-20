@@ -1,0 +1,16 @@
+<textarea class="message" name="message" placeholder="{{t 'message.messagePlaceholder'}}"></textarea>
+
+<div class="groups form_field">
+  <label>{{t 'label.groups'}}</label>
+  <ul class="span12 token_list highlightable">
+    <li class="add_token"><input class="highlightable" type="text"></li>
+  </ul>
+</div>
+
+
+<div class="pull-right">
+  <a href="#" class="cancel">{{t 'button.cancel'}}</a>
+  <button class="btn-primary" id="send-msg" disabled="disabled">
+    {{t 'button.sendMessage'}}
+  </button>
+</div>

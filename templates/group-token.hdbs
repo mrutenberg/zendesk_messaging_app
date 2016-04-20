@@ -1,0 +1,1 @@
+<li class="token"><span>{{groupName}}</span><a class="delete" tabindex="-1">&times;</a></li>

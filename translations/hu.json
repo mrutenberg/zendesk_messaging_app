@@ -1,0 +1,15 @@
+{
+  "button": {
+    "cancel": "Mégse",
+    "imageInput": "Adja meg a kép linkjét",
+    "sendMessage": "Közvetítés",
+    "toAdmin": "Új Üzenet"
+  },
+  "label": {
+    "groups": "Csoportok"
+  },
+  "message": {
+    "messagePlaceholder": "Osszon meg egy üzenetet a munkatársaival. Mi csak bátorítani tudjuk az írásra!",
+    "placeholder": "Várakozás az üzenetre..."
+  }
+}

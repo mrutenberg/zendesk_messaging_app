@@ -1,0 +1,15 @@
+{
+  "button": {
+    "cancel": "取消",
+    "imageInput": "新增影像連結",
+    "sendMessage": "廣播",
+    "toAdmin": "新建訊息"
+  },
+  "label": {
+    "groups": "小組"
+  },
+  "message": {
+    "messagePlaceholder": "與您的代理分享訊息。建議使用 Markdown。",
+    "placeholder": "訊息等待中……"
+  }
+}

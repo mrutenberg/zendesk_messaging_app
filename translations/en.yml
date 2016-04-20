@@ -1,0 +1,35 @@
+---
+title: "Notify App"
+packages:
+  - default
+  - app_notification_app
+
+parts:
+  - translation:
+      key: "txt.apps.notification_app.button.cancel"
+      title: "The button to click on cancel.https://zendesk.box.com/s/oan0oc4al5be138zmu3b9iwiudjqav9k"
+      value: "Cancel"
+  - translation:
+      key: "txt.apps.notification_app.button.imageInput"
+      title: "The button to allow users to add an image link"
+      value: "Add image link"
+  - translation:
+      key: "txt.apps.notification_app.button.sendMessage"
+      title: "The button to send your message to all agents | Reference : (https://zendesk.box.com/s/1bs135f0i9mo47won2m5h9igxo514kan)"
+      value: "Broadcast"
+  - translation:
+      key: "txt.apps.notification_app.button.toAdmin"
+      title: "The button to click when creating a new message to broadcast. https://zendesk.box.com/s/h87e6k7zxy3xot81dlj5vgfpjrcydevs"
+      value: "New Message"
+  - translation:
+      key: "txt.apps.notification_app.label.groups"
+      title: "A label to highlight the category Groups. https://zendesk.box.com/s/oan0oc4al5be138zmu3b9iwiudjqav9k"
+      value: "Groups"
+  - translation:
+      key: "txt.apps.notification_app.message.messagePlaceholder"
+      title: "The message to display by default in the form when trying to broadcast a new message. https://zendesk.box.com/s/oan0oc4al5be138zmu3b9iwiudjqav9k"
+      value: "Share a message with your agents. Markdown is encouraged."
+  - translation:
+      key: "txt.apps.notification_app.message.placeholder"
+      title: "The message to display when inbox is empty and waiting for broadcast from others to display. https://zendesk.box.com/s/h87e6k7zxy3xot81dlj5vgfpjrcydevs"
+      value: "Waiting for message..."

@@ -1,0 +1,15 @@
+{
+  "button": {
+    "cancel": "Annuller",
+    "imageInput": "Tilføj billedlink",
+    "sendMessage": "Udsend",
+    "toAdmin": "Ny meddelelse"
+  },
+  "label": {
+    "groups": "Grupper"
+  },
+  "message": {
+    "messagePlaceholder": "Del en meddelelse med dine agenter. Markdown anbefales.",
+    "placeholder": "Venter på meddelelse..."
+  }
+}

@@ -1,0 +1,125 @@
+&.apps.popover {
+  height: 280px;
+  left: -435px;
+  width: 520px;
+}
+
+section[data-main] {
+  position: relative;
+}
+
+textarea.message {
+  width: 100%;
+  box-sizing: border-box;
+  height: 120px;
+  border-radius: 4px;
+  resize: none;
+}
+
+#send-msg {
+  margin-top: 10px;
+  border-radius: 4px;
+  padding: 5px 10px;
+
+  &:disabled {
+    color: #ccc;
+    cursor: default;
+  }
+}
+
+.senderName {
+  font-weight: bold;
+}
+
+.messageBody {
+  margin-top: 2px;
+}
+
+li.message {
+  width: 100%;
+  box-sizing: border-box;
+  padding-top: 19px;
+  border-top: 1px solid #eee;
+  margin-top: 19px;
+  padding-left: 10px;
+  padding-right: 10px;
+
+  .date {
+    font-size: 11px
+  }
+
+  .close {
+    font-size: 15px;
+    line-height: 13px;
+  }
+
+  &:first-child {
+    padding-top: 0px;
+    margin-top: 0px;
+    border-top: 0px;
+  }
+}
+
+.cancel {
+  display: inline-block;
+  position: relative;
+  top: 6px;
+  left: -6px;
+}
+
+.groups {
+  width: 100%;
+  margin-top: 16px;
+  margin-bottom: 11px;
+
+  ul {
+    width: 100%;
+    box-sizing: border-box;
+
+    input {
+      width: 118px;
+    }
+  }
+}
+
+.imageInput {
+  padding-top: 19px;
+  padding-bottom: 19px;
+  border-bottom: 1px solid #eee;
+
+  .upload-icon {
+    display: inline-block;
+    height: 18px;
+    width: 28px;
+    background-image: app-asset-url("upload.png");
+  }
+}
+
+#messages {
+  margin: 5px;
+  box-sizing: border-box;
+}
+
+.new-message {
+  padding: 5px 12px;
+  border: 1px solid #dadada;
+  border-radius: 4px;
+  font-size: 12px;
+  line-height: 12px;
+  color: #333;
+  background-color: #fefefe;
+  background: linear-gradient(to bottom, #fefefe 0%,#fefefe 2%,#fbfbfb 2%,#f2f2f2 100%);
+  position: absolute;
+  top: -32px;
+  right: 10px;
+}
+
+.placeholder {
+  color: #ccc;
+}
+
+.token.unknown {
+  border: 1px solid #ebccd1;
+  background-color: #f2dede;
+  color: #a94442;
+}

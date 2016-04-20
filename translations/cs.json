@@ -1,0 +1,15 @@
+{
+  "button": {
+    "cancel": "Zrušit",
+    "imageInput": "Přidat odkaz na obrázek",
+    "sendMessage": "Rozeslat",
+    "toAdmin": "Nová zpráva"
+  },
+  "label": {
+    "groups": "Skupiny"
+  },
+  "message": {
+    "messagePlaceholder": "Pošlete zprávu svým agentům. Doporučujeme používat jazyk Markdown.",
+    "placeholder": "Čekání na zprávu..."
+  }
+}

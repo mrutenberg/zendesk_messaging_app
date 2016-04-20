@@ -1,0 +1,15 @@
+{
+  "button": {
+    "cancel": "Avbryt",
+    "imageInput": "Lägg till bildlänk",
+    "sendMessage": "Skicka ut",
+    "toAdmin": "Nytt meddelande"
+  },
+  "label": {
+    "groups": "Grupper"
+  },
+  "message": {
+    "messagePlaceholder": "Dela ett meddelande med dina agenter. Markdown rekommenderas.",
+    "placeholder": "Väntar på meddelande..."
+  }
+}

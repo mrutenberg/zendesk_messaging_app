@@ -1,0 +1,15 @@
+{
+  "button": {
+    "cancel": "İptal",
+    "imageInput": "Görüntü bağlantısı ekleyin",
+    "sendMessage": "Yayınla",
+    "toAdmin": "Yeni Mesaj"
+  },
+  "label": {
+    "groups": "Gruplar"
+  },
+  "message": {
+    "messagePlaceholder": "Temsilcilerinizle bir mesaj paylaşın. Markdown kullanımı tavsiye edilir.",
+    "placeholder": "Mesaj bekleniyor..."
+  }
+}
